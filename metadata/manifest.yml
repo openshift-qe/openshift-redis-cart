@@ -4,7 +4,7 @@ Display-Name: Redis
 Version: "2.6"
 Website: https://github.com/openshift-qe/openshift-redis-cart
 Cartridge-Version: 0.1.0
-Cartridge-Vendor: redhat
+Cartridge-Vendor: Redis
 Categories:
   - service
   - database
